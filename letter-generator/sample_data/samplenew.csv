@@ -1,0 +1,4 @@
+name,designation,domain,department,joining_date,last_working_date,email,phone,address,duration,performance,skills,basic_salary,hra,special_allowance,gross_salary,net_salary,monthly_ctc,annual_ctc,probation_period
+Priyanka Sharma,Web Developer Intern,Web Development,Technology,19-11-2025,19-05-2026,priyanka@gmail.com,7483529164,Chittapur,6 months,Excellent,HTML CSS JavaScript React,10000,5000,3000,18000,18000,20000,240000,3 months
+Rahul Mehta,Business Development Intern,Business Development,Sales,01-02-2026,01-05-2026,rahul@gmail.com,9876543210,Pune Maharashtra,3 months,Good,Lead Generation CRM Communication,10000,5000,3000,18000,18000,20000,240000,3 months
+Anjali Singh,UI/UX Design Intern,UI/UX Design,Design,15-01-2026,15-04-2026,anjali@gmail.com,8765432109,Mumbai Maharashtra,3 months,Excellent,Figma Adobe XD Canva,10000,5000,3000,18000,18000,20000,240000,3 months
